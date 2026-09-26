@@ -57,7 +57,7 @@
 
     MAINACTIVITY.JAVA
 
-    import android.os.Bundle;
+import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
 
